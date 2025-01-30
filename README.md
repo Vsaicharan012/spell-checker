@@ -1,5 +1,4 @@
-# Spelling and Grammar Checker
-
+# Spelling and Grammar Checker app
 ## Overview
 This is a Spelling and Grammar Checker built using Python, Flask, NLTK, and the LanguageTool library. It can correct spelling and grammatical errors in a given text. The application provides both a console-based interface and a web-based UI for user interaction.
 
@@ -36,4 +35,4 @@ This is a Spelling and Grammar Checker built using Python, Flask, NLTK, and the 
 2. Navigate to `http://127.0.0.1:5000/` in your web browser.
 3. Input the text you want to correct and submit.
    
-#### mail id : saichowdary055@gmail.com
+#### mail id : saicharanveeramalla0@gmail.com
